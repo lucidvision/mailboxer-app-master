@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"do"
+			],
+			[
+				"have_",
+				"have_selector"
+			],
+			[
+				"wrong",
+				"wrong_user"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"shou",
+				"should"
+			],
+			[
+				"password_",
+				"password_confirmation"
+			],
+			[
+				"inval",
+				"invalid_address"
+			],
+			[
+				"in",
+				"invalid"
+			],
+			[
+				"p",
+				"presence"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"st",
+				"static_pages"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/brian/rails_projects/mailbox/db/migrate/20120430140341_devise_create_users.rb",
+		"/home/brian/rails_projects/mailbox/db/schema.rb",
+		"/home/brian/rails_projects/mailbox/config/boot.rb",
+		"/home/brian/rails_projects/mailbox/config/locales/devise.en.yml",
+		"/home/brian/rails_projects/mailbox/config/initializers/simple_form.rb",
+		"/home/brian/rails_projects/mailbox/config/initializers/session_store.rb",
+		"/home/brian/rails_projects/mailbox/config/initializers/devise.rb",
+		"/home/brian/rails_projects/mailbox/config/environments/development.rb",
+		"/home/brian/rails_projects/mailbox/config/environments/production.rb",
+		"/home/brian/rails_projects/mailbox/app/views/messages/_form.html.haml",
+		"/home/brian/rails_projects/mailbox/app/views/conversations/_conversation.html.haml",
+		"/home/brian/rails_projects/mailbox/app/models/user.rb",
+		"/home/brian/rails_projects/mailbox/app/helpers/application_helper.rb",
+		"/home/brian/rails_projects/mailbox/app/views/conversations/show.html.haml",
+		"/home/brian/rails_projects/mailbox/app/views/home/show.html.erb",
+		"/home/brian/rails_projects/mailbox/app/views/conversations/new.html.haml",
+		"/home/brian/rails_projects/mailbox/app/views/new.html.haml",
+		"/home/brian/rails_projects/mailbox/app/views/conversations/index.html.haml",
+		"/home/brian/rails_projects/mailbox/app/views/conversations/_form.html.haml",
+		"/home/brian/rails_projects/mailbox/app/views/layouts/application.html.erb",
+		"/home/brian/rails_projects/mailbox/app/controllers/home_controller.rb",
+		"/home/brian/rails_projects/mailbox/app/assets/javascripts/home.js.coffee",
+		"/home/brian/rails_projects/mailbox/app/controllers/conversations_controller.rb",
+		"/home/brian/rails_projects/mailbox/app/assets/javascripts/messages.js.coffee",
+		"/home/brian/rails_projects/mailbox/app/assets/stylesheets/messages.css.scss ",
+		"/home/brian/rails_projects/mailbox/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/home/brian/rails_projects/mailbox/app/assets/stylesheets/conversations.css.scss",
+		"/home/brian/rails_projects/mailbox/app/assets/stylesheets/home.css.scss",
+		"/home/brian/rails_projects/mailbox/app/assets/javascripts/application.js",
+		"/home/brian/rails_projects/mailbox/app/assets/javascripts/bootstrap.js.coffee",
+		"/home/brian/rails_projects/mailbox/app/assets/javascripts/conversations.js.coffee",
+		"/home/brian/rails_projects/mailbox/Gemfile",
+		"/home/brian/rails_projects/mailbox/mailbox.sublime-project",
+		"/home/brian/rails_projects/mailbox/gemfile",
+		"/home/brian/rails_projects/scalefree/app/assets/stylesheets/custom.css.scss",
+		"/home/brian/rails_projects/scalefree/Gemfile",
+		"/home/brian/rails_projects/scalefree/config/routes.rb",
+		"/home/brian/rails_projects/scalefree/app/controllers/users_controller.rb",
+		"/home/brian/rails_projects/scalefree/app/controllers/findposts_controller.rb",
+		"/home/brian/rails_projects/scalefree/app/views/layouts/_header.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/users/show.html.erb",
+		"/home/brian/rails_projects/scalefree/config/database.yml",
+		"/home/brian/rails_projects/sample_app/config/database.yml",
+		"/home/brian/rails_projects/scalefree/db/schema.rb",
+		"/home/brian/rails_projects/scalefree/config/initializers/secret_token.rb",
+		"/home/brian/rails_projects/scalefree/app/views/profile/edit.html.erb",
+		"/home/brian/rails_projects/scalefree/app/controllers/profile_controller.rb",
+		"/home/brian/rails_projects/scalefree/app/views/users/edit.html.erb",
+		"/home/brian/rails_projects/scalefree/spec/requests/authentication_pages_spec.rb",
+		"/home/brian/rails_projects/scalefree/spec/requests/user_pages_spec.rb",
+		"/home/brian/rails_projects/scalefree/app/views/shared/_profile.html.erb",
+		"/home/brian/rails_projects/scalefree/app/controllers/static_pages_controller.rb",
+		"/home/brian/rails_projects/scalefree/app/views/profiles/edit.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/profiles/_profile.html.erb",
+		"/home/brian/rails_projects/scalefree/app/models/profile.rb",
+		"/home/brian/rails_projects/scalefree/app/views/findposts/_findpost.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/static_pages/findme.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/profile/_profile.html.erb",
+		"/home/brian/rails_projects/scalefree/spec/factories.rb",
+		"/home/brian/rails_projects/scalefree/app/models/user.rb",
+		"/home/brian/rails_projects/scalefree/spec/models/profile_spec.rb",
+		"/home/brian/rails_projects/scalefree/app/views/static_pages/home.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/profile/show.html.erb",
+		"/home/brian/rails_projects/scalefree/spec/models/user_spec.rb",
+		"/home/brian/rails_projects/scalefree/app/views/shared/_findpost_form.html.erb",
+		"/home/brian/rails_projects/scalefree/app/models/findpost.rb",
+		"/home/brian/rails_projects/scalefree/db/migrate/20130720011400_create_profiles.rb",
+		"/home/brian/rails_projects/scalefree/app/views/shared/_search_form.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/static_pages/about.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/static_pages/contact.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/static_pages/help.html.erb",
+		"/home/brian/rails_projects/scalefree/spec/requests/static_pages_spec.rb",
+		"/home/brian/rails_projects/scalefree/spec/requests/findpost_pages_spec.rb",
+		"/home/brian/rails_projects/scalefree/.git/MERGE_MSG",
+		"/home/brian/rails_projects/scalefree/.git/COMMIT_EDITMSG",
+		"/home/brian/rails_projects/scalefree/lib/tasks/sample_data.rake",
+		"/home/brian/rails_projects/scalefree/scalefree.sublime-workspace",
+		"/home/brian/rails_projects/scalefree/app/views/users/_user.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/users/index.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/shared/_user_info.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/shared/_profile_link.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/findposts/_results.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/static_pages/findyou.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/static_pages/Findyou.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/findposts/findme.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/findposts/findyou.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/layouts/_footer.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/shared/_error_messages.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/users/new.html.erb",
+		"/home/brian/rails_projects/sample_app/app/views/shared/_micropost_form.html.erb",
+		"/home/brian/rails_projects/scalefree/spec/models/findpost_spec.rb",
+		"/home/brian/rails_projects/scalefree/app/helpers/sessions_helper.rb",
+		"/home/brian/rails_projects/sample_app/lib/tasks/sample_data.rake",
+		"/home/brian/rails_projects/sample_app/config/routes.rb",
+		"/home/brian/rails_projects/scalefree/app/views/users/findyou.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/users/findme.html.erb",
+		"/home/brian/rails_projects/scalefree/app/views/finder/findme.html.erb",
+		"/home/brian/rails_projects/scalefree/app/controllers/finder_controller.rb",
+		"/home/brian/rails_projects/scalefree/db/migrate/20130713032710_add_admin_to_users.rb",
+		"/home/brian/rails_projects/scalefree/app/views/finder/findyou.html.erb",
+		"/home/brian/rails_projects/scalefree/db/migrate/20130712013201_create_findposts.rb",
+		"/home/brian/rails_projects/scalefree/config/application.rb",
+		"/home/brian/rails_projects/scalefree/app/controllers/sessions_controller.rb",
+		"/home/brian/rails_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/home/brian/rails_projects/scalefree/spec/support/utilities.rb",
+		"/home/brian/rails_projects/scalefree/app/views/layouts/application.html.erb",
+		"/home/brian/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/home/brian/rails_projects/scalefree/app/views/sessions/new.html.erb",
+		"/home/brian/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/brian/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/home/brian/rails_projects/sample_app/app/views/sessions/new.html.erb",
+		"/home/brian/rails_projects/scalefree/app/controllers/application_controller.rb",
+		"/home/brian/rails_projects/scalefree/app/assets/javascripts/application.js",
+		"/home/brian/rails_projects/scalefree/db/migrate/20130709064050_add_remember_token_to_users.rb",
+		"/home/brian/rails_projects/scalefree/config/environments/production.rb",
+		"/home/brian/rails_projects/scalefree/config/environments/test.rb",
+		"/home/brian/rails_projects/scalefree/db/migrate/20130708202832_add_index_to_users_email.rb",
+		"/home/brian/rails_projects/scalefree/app/helpers/application_helper.rb",
+		"/home/brian/rails_projects/scalefree/config/boot.rb",
+		"/home/brian/rails_projects/scalefree/public/index.html",
+		"/home/brian/rails_projects/scalefree/app/views/layouts/_shim.html.erb",
+		"/home/brian/rails_projects/scalefree/Guardfile",
+		"/home/brian/rails_projects/scalefree/spec/spec_helper.rb",
+		"/home/brian/rails_projects/scalefree/.rspec",
+		"/home/brian/rails_projects/scalefree/README.md",
+		"/etc/postgresql/9.1/main/pg_hba.conf",
+		"/etc/postgresql/9.1/pg_hba.conf",
+		"/home/brian/rails_projects/scalefree/scalefree.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/brian/rails_projects/scalefree"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"elete",
+			"sample_data",
+			"l",
+			"\n",
+			"full_title(\n",
+			"full_title\n",
+			"\n",
+			">",
+			"%>",
+			"gedit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.797477744807,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/brian/rails_projects/mailbox/mailbox.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}
